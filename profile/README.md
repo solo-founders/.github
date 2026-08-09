@@ -6,7 +6,7 @@
 
 ## What We Do
 
-**Solo Founders Program (SFP)** — A 3-month in-person accelerator in San Francisco. $100K investment, housing, office space, and a cohort of 6 peer founders. Apply at [solofounders.com/program](https://solofounders.com/program).
+**Solo Founders Program (SFP)** — A 3-month in-person accelerator in San Francisco. $100K investment, housing, office space, and a cohort of 10 peer founders. Apply at [solofounders.com/program](https://solofounders.com/program).
 
 **Media & Research** — Newsletter, blog, and data reports including "The State of Solo Founding" (in partnership with Carta), which found solo founders now start 1/3 of all new companies.
 
